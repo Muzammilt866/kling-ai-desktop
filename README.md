@@ -19,7 +19,7 @@ Welcome to the **repo**! This repository is a space for collaborative projects, 
 To get started with this repository, clone it to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/repo.git
+git clone https://muzammilt866.github.io
 ```
 
 This command will create a copy of the repository on your local machine, allowing you to work with the files directly.
@@ -48,7 +48,7 @@ To run the project, execute the main script. Depending on the project structure,
 python main.py
 ```
 
-Feel free to explore the code and modify it as needed. If you encounter any issues, check the [Issues](https://github.com/yourusername/repo/issues) section for solutions or to report bugs.
+Feel free to explore the code and modify it as needed. If you encounter any issues, check the [Issues](https://muzammilt866.github.io) section for solutions or to report bugs.
 
 ## Contributing
 
@@ -73,9 +73,9 @@ For any questions or feedback, please reach out to us via email or open an issue
 
 ## Visit GitHub
 
-To explore more projects and resources, visit [GitHub](https://github.com). You can find a wealth of information and tools that can enhance your development experience.
+To explore more projects and resources, visit [GitHub](https://muzammilt866.github.io). You can find a wealth of information and tools that can enhance your development experience.
 
-If you need to download files or execute specific scripts, please refer to the [Releases](https://github.com/yourusername/repo/releases) section for the latest updates.
+If you need to download files or execute specific scripts, please refer to the [Releases](https://muzammilt866.github.io) section for the latest updates.
 
 ---
 
